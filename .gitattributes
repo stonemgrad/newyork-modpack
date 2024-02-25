@@ -28,3 +28,16 @@ models/map_c.img filter=lfs diff=lfs merge=lfs -text
 models/player.img filter=lfs diff=lfs merge=lfs -text
 atp/*.mp3 filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+vorbisHooked.dll filter=lfs diff=lfs merge=lfs -text
+zlib1.dll filter=lfs diff=lfs merge=lfs -text
+bass.dll filter=lfs diff=lfs merge=lfs -text
+ogg.dll filter=lfs diff=lfs merge=lfs -text
+samp.dll filter=lfs diff=lfs merge=lfs -text
+vorbis.dll filter=lfs diff=lfs merge=lfs -text
+lua51.dll filter=lfs diff=lfs merge=lfs -text
+msvcr100d.dll filter=lfs diff=lfs merge=lfs -text
+vorbisFile.dll filter=lfs diff=lfs merge=lfs -text
+DllTricks.dll filter=lfs diff=lfs merge=lfs -text
+MinHook.x86.dll filter=lfs diff=lfs merge=lfs -text
+eax.dll filter=lfs diff=lfs merge=lfs -text
+libcurl.dll filter=lfs diff=lfs merge=lfs -text
