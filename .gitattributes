@@ -26,3 +26,5 @@ models/gta3_a.img filter=lfs diff=lfs merge=lfs -text
 models/map_a.img filter=lfs diff=lfs merge=lfs -text
 models/map_c.img filter=lfs diff=lfs merge=lfs -text
 models/player.img filter=lfs diff=lfs merge=lfs -text
+atp/*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
