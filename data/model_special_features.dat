@@ -1,0 +1,26 @@
+# Author: fastman92
+# fastman92 limit adjuster required to apply the model special features
+#
+# The loader for model special features can make specified model IDs behave like different standard model ID, according to the list in this file.
+# For example, you can add model new_hydra and you want it to behave like standard vehicle hydra.
+# There's an example in the last line, remember you have to remove # to enable it.
+
+# CustomModelName StandardModelName
+# A               B
+nytambulan ambulan
+nytaux98cvpi62pct copcarla
+nytaux98cvpi13pct copcarla
+nytaux03impala62pct copcarla
+nytaux03impala13pct copcarla
+nytptl98cvpi62pct copcarla
+nytptl98cvpi13pct copcarla
+nytptl05cvpi62pct copcarla
+nytptl05cvpi13pct copcarla
+nytptl03impala62pct copcarla
+nytptl03impala13pct copcarla
+nytptl06impala13pct copcarla
+nytptl06impala62pct copcarla
+nytesu06impala copcarla
+nytcourtcar1 copcarla
+nytcourtcar2 copcarla
+nytcourtcar3 copcarla

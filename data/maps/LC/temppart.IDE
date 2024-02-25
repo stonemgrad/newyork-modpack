@@ -1,0 +1,118 @@
+objs
+23407, glassfx55, gtaiii, 100, 0
+23408, fratehuge, frate, 200, 0
+23409, tunnel_section, railway, 200, 0
+23410, fshgtsbx_dstryd, fishfactory, 100, 0
+23411, fshgutsbox, fishfactory, 200, 0
+23412, railtracks, railwayg, 100, 0
+23413, shp_wlkway, boats, 60, 0
+23414, shp_boats2, boats, 60, 0
+23415, rail_platform, railway, 200, 0
+23416, billboard01, bigsign, 140, 0
+23417, billboard02, bigsign, 140, 0
+23418, carlift02, carpark, 80, 0
+23419, dumpster01, junk, 80, 0
+23420, vegcrate04, cardbox, 40, 0
+23421, vegcrate06, cardbox, 40, 0
+23422, vegcrate07, cardbox, 40, 0
+23423, carlift01, carpark, 80, 0
+23424, fishoildrum, fishfactory, 200, 0
+23425, Scffldng02top, bigsign, 100, 0
+#23426, telgrphpole02, telegraph, 92, 0
+23427, towerflat, pjects, 110, 0
+23428, chimney01, metal, 80, 0
+23429, LODtowerflat, indust1, 750, 0
+23430, iten_block01, italysht, 100, 0
+23431, iten_hoteltop, italysht, 100, 0
+23432, iten_block09, italysht, 100, 0
+23433, iten_urn01, indclub, 100, 0
+23434, ind_newtenement03, italysht, 110, 0
+23435, ind_newtenement02, italysht, 110, 0
+23436, ind_newtenement04, italysht, 110, 0
+23437, ind_newtenement01, italysht, 110, 0
+23438, door_fucked, wood, 100, 0
+23439, bombdoor, bombdoor, 100, 0
+23440, ind_newtenement07, italysht, 160, 0
+23441, LOD_newtenement03, indust1, 750, 0
+23442, LOD_newtenement02, indust1, 750, 0
+23443, spraydoor, indredlitblk2, 100, 0
+23444, salvatorpatiodr, salvatory, 100, 0
+23445, LOD_newtenement04, indust1, 750, 0
+23446, LOD_newtenement01, indust1, 750, 0
+23447, iten_details7, firescape, 40, 0
+23448, iten_chinatown2, chinabanner, 100, 0
+23449, iten_chinatown4, chinabanner, 100, 0
+23450, iten_chinatown38, indchinassrt, 100, 0
+23451, iten_garage01, garagewood, 100, 0
+23452, chinaledge2, indchinaredgreen, 100, 0
+23453, ch_pil_kb, indchinabuild, 100, 0
+23454, ch_btmflr_3_kb, indchinabuild, 100, 0
+23455, canopy_wht_kb, indchinabuild, 100, 0
+23456, canopy_grn_kb, indchinabuild, 100, 0
+23457, canopy_red_kb, indchinabuild, 100, 0
+23458, canopy_whtlrg_kb, indchinabuild, 100, 0
+23459, firescapa1, indchinablocks, 100, 0
+23460, f_escape_side1, fire_esc, 40, 0
+23461, grassyknoll2, gtaiii, 100, 0
+23462, plnt_chimgrad, chimney, 100, 0
+23463, iten_windowbox, lititly, 100, 0
+23464, iten_balcony, lititly, 100, 0
+23465, iten_alleysteps, gtaiii, 100, 0
+23466, iten_alleysteps03, gtaiii, 100, 0
+23467, iten_washline01, washin, 100, 0
+23468, iten_washline02, washin, 100, 0
+23469, iten_box01, wall, 100, 0
+23470, iten_wall03, wall, 100, 0
+23471, iten_wall04, wall, 100, 0
+23472, iten_washline03, washin, 100, 0
+23473, iten_fern01, vege, 100, 0
+23474, flagsitaly, italyfalg, 100, 0
+23475, Mistydoor, pjs, 100, 0
+23476, LODn_block01, indust1, 750, 0
+23477, LODn_hoteltop, indust1, 750, 0
+23478, joeysdoor, door, 100, 0
+23479, eitballsdoor, door, 100, 0
+23480, glassfx4, gtaiii, 100, 0
+23481, glassfx3, gtaiii, 100, 0
+23482, glassfx2, gtaiii, 100, 0
+23483, glassfx1, gtaiii, 100, 0
+23484, bankjobdoor, door, 100, 0
+23485, hghwysgn01, roadsign, 120, 0
+23486, hghwysgn02, roadsign, 100, 0
+23487, bankdoor, door, 100, 0
+23488, chinabanner3, chinabanner, 100, 0
+23489, chinabanner4, chinabanner, 100, 0
+23490, chinabanner1, chinabanner, 100, 0
+23491, chinabanner2, chinabanner, 100, 0
+23492, convstre_dmge01, unclebj, 160, 0
+23493, salvatordoor, door, 100, 0
+23494, IslandLODsubCOM, islandLODsubCOM, 3000, 0
+23495, IslandLODsubIND, islandcomind, 3000, 0
+23496, IslandLODcomSUB, islandcomsub, 3000, 0
+23497, IslandLODInd, islandlodind, 3000, 0
+23498, policeballdoor, fuzzball, 100, 0
+23499, dogfoodoor01, dogfood, 100, 0
+23500, convstore01, unclebj, 160, 0
+23501, iten_block06, italysht, 130, 0
+23502, LODn_block06, indust2, 750, 0
+23503, LOD_newtenement07, indust1, 750, 0
+23504, chinalanterns, chinabanner, 100, 0
+23505, LODn_garage01, indust2, 750, 0
+23506, LODn_block09, indust2, 750, 0
+23507, convstore01_door, unclebj, 100, 0
+23508, IslandLODcomIND, islandcomind, 3000, 0
+23509, ind_jetnoside02, indpier, 299, 0
+23510, fshfctry_dstryd, fishfactory, 400, 0
+23511, fishfctory, fishfactory, 299, 0
+23512, com_bridgesign, combridgesign, 100, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+
+
+
+

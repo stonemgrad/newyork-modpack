@@ -1,0 +1,240 @@
+# Author: fastman92
+# fastman92 limit adjuster required to apply new weapon types
+
+#
+# ALL WEAPONS
+#-----------------------------------------------
+#	A:		int weaponTypeID, can be -1 to find first free ID
+#	B:		string weaponTypeName
+#	C:		int statIndex
+#	D:		bool bCanBeUsedForSecondPlayer
+#	E:		bool bHasWeaponAmmoToBeUsed
+#	F:		int AmmoForWeapon_OnStreet
+#	G:		int PickupMsgColor.red
+#	H:		int PickupMsgColor.green
+#	I:		int PickupMsgColor.blue
+#	J:		float PickupMsgUnk4
+#	K:		string parentWeaponType - optional parameter
+#
+# Weapons with statIndex specified will require poor, standard and professional line in weapon.dat.
+# Additionally the weapons with statIndex specified and which derive from PISTOL will also require special line.
+#
+
+# weaponType                              statIndex  bCanBeUsedForSecondPlayer  bHasWeaponAmmoToBeUsed  AmmoForWeapon_OnStreet  PickupMsgColor  PickupMsgUnk4  parentWeaponType
+# A   B                                    C         D                          E                       F						G    H    I     J              K
+0     UNARMED                             -1         1                          1                       0                       128  128   128  1.0            
+1     BRASSKNUCKLE                        -1         1                          1                       1                       128  128   128  1.0            
+2     GOLFCLUB                            -1         1                          1                       1                       97   194   247  1.0            
+3     NIGHTSTICK                          -1         1                          1                       1                       97   194   247  1.0            
+4     KNIFE                               -1         1                          1                       1                       97   194   247  1.0            
+5     BASEBALLBAT                         -1         1                          1                       1                       97   194   247  1.0            
+6     SHOVEL                              -1         1                          0                       1                       97   194   247  1.0            
+7     POOLCUE                             -1         1                          0                       1                       97   194   247  1.0            
+8     KATANA                              -1         1                          1                       1                       97   194   247  1.0            
+9     CHAINSAW                            -1         0                          1                       1                       97   194   247  1.0            
+10    DILDO1                              -1         1                          1                       1                       97   97    97   1.0            
+11    DILDO2                              -1         1                          1                       1                       97   97    97   1.0            
+12    VIBE1                               -1         1                          1                       1                       97   97    97   1.0            
+13    VIBE2                               -1         1                          1                       1                       97   97    97   1.0            
+14    FLOWERS                             -1         1                          1                       1                       97   97    97   1.0            
+15    CANE                                -1         1                          0                       1                       97   97    97   1.0            
+16    GRENADE                             -1         1                          0                       8                       27   89    130  1.0            
+17    TEARGAS                             -1         1                          0                       8                       27   89    130  1.0            
+18    MOLOTOV                             -1         1                          0                       8                       27   89    130  1.0            
+19    ROCKET                              -1         1                          0                       8                       27   89    130  1.0            
+20    ROCKET_HS                           -1         1                          0                       4                       27   89    130  1.0            
+21    FREEFALL_BOMB                       -1         1                          0                       4                       27   89    130  1.0            
+22    PISTOL                              69         1                          0                       30                      149  194   24   1.0            
+23    PISTOL_SILENCED                     70         1                          0                       10                      149  194   24   1.0            
+24    DESERT_EAGLE                        71         1                          0                       10                      149  194   24   1.0            
+25    SHOTGUN                             72         1                          0                       15                      45   155   90   1.0            
+26    SAWNOFF                             73         1                          0                       10                      45   155   90   1.0            
+27    SPAS12                              74         1                          0                       10                      45   155   90   1.0            
+28    MICRO_UZI                           75         1                          0                       60                      255  227   79   1.0            
+29    MP5                                 76         1                          0                       60                      255  227   79   1.0            
+30    AK47                                77         1                          0                       80                      254  137   0    1.0            
+31    M4                                  78         1                          0                       80                      254  137   0    1.0            
+32    TEC9                                75         1                          0                       60                      255  227   79   1.0            
+33    COUNTRYRIFLE                        -1         1                          0                       20                      249  131   215  1.0            
+34    SNIPERRIFLE                         -1         0                          0                       10                      249  131   215  1.0            
+35    RLAUNCHER                           -1         0                          0                       4                       164  40    178  1.0            
+36    RLAUNCHER_HS                        -1         1                          0                       3                       164  40    178  1.0            
+37    FTHROWER                            -1         1                          0                       100                     164  40    178  1.0            
+38    MINIGUN                             -1         1                          0                       500                     164  40    178  1.0            
+39    SATCHEL_CHARGE                      -1         1                          0                       5                       164  40    178  1.0            
+40    DETONATOR                           -1         1                          0                       1                       164  40    178  1.0            
+41    SPRAYCAN                            -1         1                          0                       500                     97   194   247  1.0            
+42    EXTINGUISHER                        -1         1                          0                       500                     69   69    69   1.0            
+43    CAMERA                              -1         1                          0                       36                      69   69    69   1.0            
+44    NIGHTVISION                         -1         1                          0                       0                       69   69    69   1.0            
+45    INFRARED                            -1         1                          0                       0                       69   69    69   1.0            
+46    PARACHUTE                           -1         0                          1                       1                       69   69    69   1.0            
+
+# additional settings for some weapons
+! SET_ASSOCIATED_WEAPON RLAUNCHER ROCKET
+! SET_ASSOCIATED_WEAPON RLAUNCHER_HS ROCKET_HS
+! SET_ASSOCIATED_WEAPON SATCHEL_CHARGE DETONATOR
+
+# IDs 47 to 59 are reserved for internal game usage
+# 47 LAST_WEAPONTYPE
+# 48 ARMOUR
+# 49 RAMMEDBYCAR
+# 50 RUNOVERBYCAR
+# 51 EXPLOSION
+# 52 UZI_DRIVEBY
+# 53 DROWNING
+# 54 FALL
+# 55 UNIDENTIFIED
+# 56 ANYMELEE
+# 57 ANYWEAPON
+# 58 FLARE
+# 59 TANK_GRENADE
+
+# IDs 60 to 69 are reserved for limit adjuster future use
+# 60 JETPACK_TYPE
+# 61 BINOCULARS_TYPE, derived from NIGHTVISION
+
+# ----------------------------------- added weapons -----------------------------------
+# you will add entries of new weapons probably here
+
+# weaponType                              statIndex  bCanBeUsedForSecondPlayer  bHasWeaponAmmoToBeUsed  AmmoForWeapon_OnStreet  PickupMsgColor  PickupMsgUnk4  parentWeaponType
+# A   B                                    C         D                          E                       F						G    H    I     J              K
+100    nytakd                                77         1                          0                       80                      254  137   0    1.0            AK47
+101    nytaklong                                77         1                          0                       80                      254  137   0    1.0            AK47
+102    nytarp15                                77         1                          0                       80                      254  137   0    1.0            AK47
+103    nytg36c                                77         1                          0                       80                      254  137   0    1.0            AK47
+104    nytgsar                                77         1                          0                       80                      254  137   0    1.0            AK47
+105    nythk416                                77         1                          0                       80                      254  137   0    1.0            AK47
+106    nytm4a1                                77         1                          0                       80                      254  137   0    1.0            AK47
+107    nytscarh                                77         1                          0                       80                      254  137   0    1.0            AK47
+108    nytbm98b                         -1         0                          0                       10                      249  131   215  1.0            SNIPERRIFLE
+109    nytbxbolt                         -1         0                          0                       10                      249  131   215  1.0            SNIPERRIFLE
+110    nytrmini14                        -1         0                          0                       10                      249  131   215  1.0            COUNTRYRIFLE 
+111    nytrpc                        -1         0                          0                       10                      249  131   215  1.0            COUNTRYRIFLE
+112    nytsssg69	                           	   -1         0                          0                       10                      249  131   215  1.0            SNIPERRIFLE
+113    nytsvdm                         -1         0                          0                       10                      249  131   215  1.0            SNIPERRIFLE
+114    nytbm9s                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+115    nytfnp45                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+116    nytglock34silen                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+117    nyttaser                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+118    nyttype52silen                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+119    nytchester                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+120    nytwppsilen                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+121    nytknifedamass                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+122    nytknifedragon                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+123    nyttalvar                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+124    nytknife14                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+125    nytbm4                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+126    nytdbshot                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+127    nytm5sss                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+128    nytm500a                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+129    nytr870                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+130    nytr870wp                             72         1                          0                       15                      45   155   90   1.0            SHOTGUN
+131    nytsff                             73         1                          0                       10                      45   155   90   1.0            SAWNOFF
+132    nytsffb                             73         1                          0                       10                      45   155   90   1.0            SAWNOFF
+133    nytm8000c                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+134    nytbm9                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+135    nytbm92ci                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+136    nytcolta                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+137    nytdeag                        71         1                          0                       10                      149  194   24   1.0            DESERT_EAGLE
+138    nytfnfs                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+139    nytglock17                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+140    nytglock18                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+141    nytglock25                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+142    nytglock34                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+143    nytglock26                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+144    nythkusp                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+145    nytp225                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+146    nytrsp101                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+147    nytswm29                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+148    nytswmcs9                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+149    nytswsw1911                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+150    nytsigp220                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+151    nytswm10                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+152    nyttaur605                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+153    nytakm1                                77         1                          0                       80                      254  137   0    1.0            AK47
+154    nyttype52                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+155    nytwp38                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+156    nytwp99                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+157    nytwpp                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+158    nytmakarova                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+159    nytrsac                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+160    nytar15                           75         1                          0                       60                      255  227   79   1.0            AK47
+161    nytim11                           75         1                          0                       60                      255  227   79   1.0            MICRO_UZI
+162    nytakm2                                77         1                          0                       80                      254  137   0    1.0            AK47
+163    nytkrissv                           75         1                          0                       60                      255  227   79   1.0            MICRO_UZI
+164    nytmp5                           75         1                          0                       60                      255  227   79   1.0            PISTOL_SILENCED
+165    nytmp5t                           75         1                          0                       60                      255  227   79   1.0            PISTOL_SILENCED
+166    nytmp5k                           75         1                          0                       60                      255  227   79   1.0            MP5
+167    nytmp9                           75         1                          0                       60                      255  227   79   1.0            MP5
+168    nytsvz61                           75         1                          0                       60                      255  227   79   1.0            MICRO_UZI
+169    nyttm1a1                           75         1                          0                       60                      255  227   79   1.0            TEC9
+170    nytuzi                           75         1                          0                       60                      255  227   79   1.0            MICRO_UZI
+171    nythk21                             -1         1                          0                       500                     164  40    178  1.0            AK47
+172    nytm249                             -1         1                          0                       500                     164  40    178  1.0            M4
+173    nytpkm                             -1         1                          0                       500                     164  40    178  1.0            AK47
+174    nytrpk                             -1         1                          0                       500                     164  40    178  1.0            AK47
+175    nytsprayc                            -1         1                          0                       500                     97   194   247  1.0            SPRAYCAN
+176    nytchnsaw1                            -1         0                          1                       1                       97   194   247  1.0            CHAINSAW
+177    nytchnsaw2                            -1         0                          1                       1                       97   194   247  1.0            CHAINSAW
+178     nytbat1                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+179     nytbat2                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+180     nytcomknife                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+181     nytshaver                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+182     nytwrench                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+183     nytcopstick1                          -1         1                          1                       1                       97   194   247  1.0            NIGHTSTICK
+184     nytcopstick2                          -1         1                          1                       1                       97   194   247  1.0            NIGHTSTICK
+185     nytsharp                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+186     nytbrass1                        -1         1                          1                       1                       128  128   128  1.0            BRASSKNUCKLE
+187     nytbrass2                        -1         1                          1                       1                       128  128   128  1.0            BRASSKNUCKLE
+188     nytkatana1                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+189     nytkatana2                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+190     nytkatana3                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+191     nytdagger                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+192     nytgolfclub                            -1         1                          1                       1                       97   194   247  1.0            GOLFCLUB
+193     nytsledge1                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+194     nytsledge2                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+195     nytshovel                              -1         1                          0                       1                       97   194   247  1.0            SHOVEL
+196     nytmachete1                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+197     nytmachete2                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+198     nytmachete3                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+199     nythammer                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+200     nytmount                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+201     nytknife1                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+202     nytbflyknife1                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+203     nytbflyknife2                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+204     nytknife2                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+205     nytknife3                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+206     nytknife4                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+207     nytknife5                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+208     nytknife6                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+209     nytknife7                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+210     nytknife8                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+211     nytknife9                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+212     nytknife10                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+213     nytknife11                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+214     nytknife12                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+215     nytknife13                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+216     nytscrewd                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+217    nytpepper                            -1         1                          0                       500                     97   194   247  1.0            SPRAYCAN
+218     nytadjustkey                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+219     nytaxe1                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+220     nytaxe2                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+221     nytaxe3                         -1         1                          1                       1                       97   194   247  1.0            BASEBALLBAT
+222    nytm1911ex                              69         1                          0                       30                      149  194   24   1.0            DESERT_EAGLE
+223    nytglockex                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+224     nytbrasskex                        -1         1                          1                       1                       128  128   128  1.0            BRASSKNUCKLE
+225    nytmakarzolex                              69         1                          0                       30                      149  194   24   1.0            PISTOL
+226    nytmakarsilenex                     70         1                          0                       10                      149  194   24   1.0            PISTOL_SILENCED
+227    nytrhino50ds                        71         1                          0                       10                      149  194   24   1.0            DESERT_EAGLE
+228    nytcamera1                              -1         1                          0                       36                      69   69    69   1.0            CAMERA
+229    nytcamera2                              -1         1                          0                       36                      69   69    69   1.0            CAMERA
+230    nytcowboy                        71         1                          0                       10                      149  194   24   1.0            DESERT_EAGLE
+231    nytdraco                           75         1                          0                       60                      255  227   79   1.0            MP5
+232    nytmuerto1911g                        71         1                          0                       10                      149  194   24   1.0            DESERT_EAGLE
+233    nytmuerto1911m                        71         1                          0                       10                      149  194   24   1.0            DESERT_EAGLE
+234    nytwalthppg                        71         1                          0                       10                      149  194   24   1.0            DESERT_EAGLE
+235     nytkatana4                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+236     nytkatana5                              -1         1                          1                       1                       97   194   247  1.0            KATANA
+237    nytknife15                               -1         1                          1                       1                       97   194   247  1.0            KNIFE
+238    nytknife16                               -1         1                          1                       1                       97   194   247  1.0            KNIFE

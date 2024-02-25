@@ -1,0 +1,18 @@
+objs
+24020, bedfull, indbeach, 300, 0
+24021, bedhalf, indbeach, 3000, 0
+24022, bedquat, indbeach, 300, 0
+24023, bedeighth, indbeach, 3000, 0
+24024, bedtrain, indbeach, 3000, 0
+24025, so48z21, indbeach, 3000, 0
+24026, so46089, indbeach, 3000, 0
+24027, sz28074, indbeach, 3000, 0
+24028, so46o55, indbeach, 3000, 0
+24029, sz51z26, indbeach, 3000, 0
+24030, so15065, indbeach, 3000, 0
+24031, LODbedfull, indbeach, 2000, 0
+24032, LODbedhalf, indbeach, 2000, 0
+24033, LODbedquat, indbeach, 2000, 0
+24034, LODbedeighth, indbeach, 2000, 0
+24035, dam_bed, gtaiii, 299, 0
+end

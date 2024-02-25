@@ -1,0 +1,195 @@
+objs
+20642, scraperkb3_nit, comsky5z, 201, 0
+20643, csky_skyscrp23, comsky5z, 201, 0
+20644, amcoudet, comsky3, 190, 2097156
+20645, amcounder, comsky3, 100, 2097156
+20646, mrngstarbuild, cskydark, 180, 0
+20647, com_land050, cskydark, 180, 1
+20648, csky_skyscrp26b, cskydark, 200, 0
+20649, ofis_bildkb_4, comsky3, 150, 0
+20650, kb_scrap_5, comsky3, 242, 2097156
+20651, com_land075a, gtaiii, 250, 2097152
+20652, com_land119, gtaiii, 250, 2097152
+20653, com_land120, gtaiii, 250, 2097152
+20654, Com_docksa, comdocks, 299, 2097152
+20655, com_land075b, casino, 250, 2097152
+20656, com_land119b, gtaiii, 190, 2097152
+20657, police_cell, compolice, 0, 0
+20658, snipe_build_kb, comsky5z, 180, 2097156
+20659, com_landnew21, gtaiii, 160, 0
+20660, museum, comsky3, 200, 2097156
+20661, police_com, com_police, 170, 2097156
+20662, amco_floor, comsky3, 160, 2097156
+20663, skyscrapenew, cskydark, 299, 2097156
+20664, treepatch2b, trees2, 180, 0
+20665, treepatch03, trees2, 180, 0
+20666, policeally, com_police, 200, 0
+20667, policetenkb1, com_police, 180, 0
+20668, policetenkb2, com_police, 160, 0
+20669, treepatchkb4, trees2, 250, 0
+20670, treepatchkb5, trees2, 200, 0
+20671, treepatchkb6, trees2, 200, 0
+20672, treepatchkb7, trees2, 200, 0
+20673, treepatchkb9, trees2, 200, 0
+20674, rd_Road1C50kb, gtaiii, 180, 0
+20675, leveldoor2, door, 100, 0
+20676, dockwallbb_1, comdocks, 130, 0
+20677, overpass_comse, comdocks, 150, 0
+20678, dockwallbb_2, comdocks, 130, 0
+20679, chunk5land, comsky5z, 200, 0
+20680, com_spotlites, casino, 200, 0
+20681, sidebarrier_gaz1, com_police, 100, 0
+20682, sidebarrier_gaz2, com_police, 150, 0
+20683, LODepatchkb7, comlod1, 1000, 0
+20684, LODebarrier_gaz1, comlod1, 400, 0
+20685, LODebarrier_gaz2, comlod1, 400, 0
+20686, LODepatchkb5, comlod1, 600, 0
+20687, LODepatchkb6, comlod1, 600, 0
+20688, LODepatchkb4, comlod1, 600, 0
+20689, LODnderpas2, comlod1, 600, 0
+20690, LODrpass_comse, comlod1, 800, 0
+20691, LODkwallbb_1, comlod1, 800, 0
+20692, LOD_docksa, comlod1, 2000, 0
+20693, LODiceally, comlod1, 800, 0
+20694, LODicetenkb1, comlod1, 600, 0
+20695, LODicetenkb2, comlod1, 600, 0
+20696, LODscrapenew, comlod1, 2000, 0
+20697, LODinogrnd4, comlod1, 2000, 0
+20698, LODinogrnd3, comlod1, 2000, 0
+20699, LODino_grnd, comlod1, 2000, 0
+20700, LODinogrnd2, comlod1, 2000, 0
+20701, LODroad_se_20, comlod1, 800, 0
+20702, LODroad_se_19, comlod1, 800, 0
+20703, LODroad_se_18, comlod1, 800, 0
+20704, LODroad_se_17, comlod1, 800, 0
+20705, LODroad_se_16, comlod1, 800, 0
+20706, LODroad_se_15, comlod1, 800, 0
+20707, LODroad_se_14, comlod1, 800, 0
+20708, LODroad_se_13, comlod1, 800, 0
+20709, LODroad_se_12, comlod1, 800, 0
+20710, LODs_bildkb_4, comlod2, 1000, 0
+20711, LODroad_se_10, comlod1, 800, 0
+20712, LODroad_se_09, comlod1, 800, 0
+20713, LODroad_se_08, comlod1, 800, 0
+20714, LODroad_se_07, comlod1, 800, 0
+20715, LODroad_se_06, comlod1, 800, 0
+20716, LODroad_se_05, comlod1, 800, 0
+20717, LODroad_se_04, comlod1, 800, 0
+20718, LODRoad1C50kb, comlod1, 800, 0
+20719, LODroad_se_02, comlod1, 800, 0
+20720, LODroad_se_11, comlod1, 800, 0
+20721, LOD_land119, comlod1, 2000, 0
+20722, LOD_land119b, comlod1, 2000, 0
+20723, LOD_landnew21, comlod1, 2000, 0
+20724, LOD_land120, comlod1, 2000, 0
+20725, LOD_land075a, comlod1, 2000, 0
+20726, LOD_land075b, comlod1, 2000, 0
+20727, LOD_roadkb22, comlod1, 2000, 0
+20728, LODscrap_5, comlod2, 1000, 0
+20729, LODpe_build_kb, comlod1, 1000, 0
+20730, LODeum, comlod2, 600, 0
+20731, LODaperkb3_nit, comlod1, 800, 0
+20732, LODice_com, comlod1, 2000, 0
+20733, LODnk5land, comlod1, 800, 0
+20734, LOD_land050, comlod1, 800, 0
+20735, LODino, comlod1, 2000, 0
+20736, LODo_floor, comlod1, 800, 0
+20737, LODgstarbuild, comlod1, 2000, 0
+20738, LODoudet, comlod1, 1000, 0
+20739, LODy_skyscrp23, comlod1, 2000, 0
+20740, LODy_skyscrp26b, comlod1, 2000, 0
+20741, LODroad_se_01, comlod1, 800, 0
+20742, roadplanterkb1, comseroadbits, 299, 0
+20743, roadplanterkb3, comseroadbits, 299, 0
+20744, roadplanterkb2, comseroadbits, 299, 0
+20745, kb_underpass, comseroadbits, 180, 0
+20746, kbunderpas2, comseroadbits, 200, 0
+20747, kbplanter4, comseroadbits, 299, 0
+20748, com_landnew221b, comseroadbits, 200, 0
+20749, comsenullnodea01, gtaiii, 1, 0
+20750, comsenullnodea02, gtaiii, 1, 0
+20751, comsenullnodea03, gtaiii, 1, 0
+20752, comsenullnodea04, gtaiii, 1, 0
+20753, comsenullnodea05, gtaiii, 1, 0
+20754, comsenullnodea06, gtaiii, 1, 0
+20755, comsenullnodea07, gtaiii, 1, 0
+20756, comsenullnodea08, gtaiii, 1, 0
+20757, comsenullnodea09, gtaiii, 1, 0
+20758, comsenullnodea10, gtaiii, 1, 0
+20759, comsenullnodea11, gtaiii, 1, 0
+20760, casinogrnd3, casino, 250, 0
+20761, casinogrnd4, casino, 250, 0
+20762, casinogrnd2, casino, 250, 0
+20763, casino, casino, 180, 0
+20764, casino_grnd, casino, 250, 0
+20765, casino_garden, casinogarden, 100, 0
+20766, se_treeshad06, treeshadow, 299, 0
+20767, se_treeshad01, treeshadow, 299, 0
+20768, se_treeshad02, treeshadow, 299, 0
+20769, se_treeshad03, treeshadow, 299, 0
+20770, se_treeshad04, treeshadow, 299, 0
+20771, se_treeshad05, treeshadow, 299, 0
+20772, LODunderpass, comlod1, 2000, 0
+20773, LOD_landnew221b, comlod1, 700, 0
+20774, LODkwallbb_2, comlod1, 800, 0
+20775, LODepatch03, comlod1, 600, 0
+20776, LODepatch2b, comlod1, 600, 0
+20777, callbrd_01, inddbridge, 300, 0
+20778, callmid, inddbridge, 300, 0
+20779, callbrd_02, inddbridge, 300, 0
+20780, LODlbrd_01, inddbridge, 2000, 0
+20781, LODlmid, inddbridge, 2000, 0
+20782, LODlbrd_02, inddbridge, 2000, 0
+20783, csky_skyscrptop, cskydark, 150, 0
+20784, csky_skyscrpbot, cskydark, 200, 0
+20785, LODy_skyscrptop, cskydark, 2000, 0
+20786, LODy_skyscrpbot, cskydark, 2000, 0
+20787, skyscrpint, cskydark, 100, 0
+20788, skyscrapenewtop, cskydark, 299, 0
+end
+tobj
+20789, comlights01, comlights, 3000, 0, 20, 0
+20790, comlights05, comlights, 3000, 0, 19, 0
+20791, comlights06, comlights, 3000, 12, 19, 0
+20792, comlights07, comlights, 3000, 0, 19, 0
+20793, comlights08, comlights, 3000, 12, 20, 0
+20794, comlights09, comlights, 3000, 0, 22, 0
+20795, com_spotbeams, casino, 1500, 136, 22, 0
+20796, comlights04, comlights, 3000, 0, 19, 0
+20797, comlights03, comlights, 3000, 0, 19, 0
+20798, comlights02, comlights, 3000, 0, 20, 0
+end
+path
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

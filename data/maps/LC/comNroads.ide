@@ -1,0 +1,19 @@
+#IDE file generated from Kam's GTA Map IO
+objs
+######comntop
+20263, com_lodt_roads18, gtaiii, 2000, 0
+20264, com_lodm_rd01, gtaiii, 2000, 0
+20265, com_cust_roads18, gtaiii, 200, 0
+20266, com_custm_rd01, gtaiii, 200, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
+

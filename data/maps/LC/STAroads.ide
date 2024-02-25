@@ -1,0 +1,128 @@
+#IDE file generated from Kam's GTA Map IO
+objs
+23179, RD_CBTM01, gtaiii, 200, 0
+23180, RD_CBTM02, gtaiii, 200, 0
+23181, RD_CBTM03, gtaiii, 200, 0
+23182, RD_CBTM04, gtaiii, 200, 0
+23183, RD_CBTM05, gtaiii, 200, 0
+23184, RD_CBTM06, gtaiii, 200, 0
+23185, RD_CBTM07, gtaiii, 200, 0
+23186, RD_CBTM08, gtaiii, 200, 0
+23187, RD_CBTM09, gtaiii, 200, 0
+23188, RD_CBTM10, gtaiii, 200, 0
+23189, RD_CBTM11, gtaiii, 200, 0
+23190, RD_CBTM12, gtaiii, 200, 0
+23191, RD_CBTM13, gtaiii, 200, 0
+23192, RD_CBTM14, gtaiii, 200, 0
+23193, RD_CBTM15, gtaiii, 200, 0
+23194, RD_CBTM16, gtaiii, 200, 0
+23195, RD_CBTM17, gtaiii, 200, 0
+23196, RD_CBTM18, gtaiii, 200, 0
+23197, RD_CBTM19, gtaiii, 200, 0
+23198, RD_CBTM20, gtaiii, 200, 0
+23199, RD_csw01, gtaiii, 200, 0
+23200, RD_csw02, gtaiii, 200, 0
+23201, RD_csw03, gtaiii, 200, 0
+23202, RD_csw04, gtaiii, 200, 0
+23203, RD_csw05, gtaiii, 200, 0
+23204, RD_csw06, gtaiii, 200, 0
+23205, RD_csw07, gtaiii, 200, 0
+23206, RD_csw08, gtaiii, 200, 0
+23207, RD_csw09, gtaiii, 200, 0
+23208, RD_csw10, gtaiii, 200, 0
+23209, RD_csw11, gtaiii, 200, 0
+23210, RD_csw12, gtaiii, 200, 0
+23211, RD_csw13, gtaiii, 200, 0
+23212, RD_csw14, gtaiii, 200, 0
+23213, RD_csw15, gtaiii, 200, 0
+23214, RD_csw16, gtaiii, 200, 0
+23215, RD_csw17, gtaiii, 200, 0
+23216, RD_csw18, gtaiii, 200, 0
+23217, RD_csw19, gtaiii, 200, 0
+23218, RD_csw20, gtaiii, 200, 0
+23219, RD_csw21, gtaiii, 200, 0
+23220, RD_csw22, gtaiii, 200, 0
+23221, RD_csw23, gtaiii, 200, 0
+23222, RD_CSE03, gtaiii, 200, 0
+23223, RD_CSE02, gtaiii, 200, 0
+23224, RD_CSE01, gtaiii, 200, 0
+23225, RD_CSE04, gtaiii, 200, 0
+23226, RD_CSE05, gtaiii, 200, 0
+23227, RD_CSE06, gtaiii, 200, 0
+23228, RD_CSE07, gtaiii, 200, 0
+23229, RD_CSE08, gtaiii, 200, 0
+23230, RD_CSE09, gtaiii, 200, 0
+23231, RD_CSE13, gtaiii, 200, 0
+23232, RD_CSE11, gtaiii, 200, 0
+23233, RD_CSE12, gtaiii, 200, 0
+23234, RD_CSE14, gtaiii, 200, 0
+23235, RD_CSE10, gtaiii, 200, 0
+23236, LODCBTM01, gtaiii, 1000, 0
+23237, LODCBTM02, gtaiii, 1000, 0
+23238, LODCBTM03, gtaiii, 1000, 0
+23239, LODCBTM04, gtaiii, 1000, 0
+23240, LODCBTM05, gtaiii, 1000, 0
+23241, LODCBTM06, gtaiii, 1000, 0
+23242, LODCBTM07, gtaiii, 1000, 0
+23243, LODCBTM08, gtaiii, 1000, 0
+23244, LODCBTM09, gtaiii, 1000, 0
+23245, LODCBTM10, gtaiii, 1000, 0
+23246, LODCBTM11, gtaiii, 1000, 0
+23247, LODCBTM12, gtaiii, 1000, 0
+23248, LODCBTM13, gtaiii, 1000, 0
+23249, LODCBTM14, gtaiii, 1000, 0
+23250, LODCBTM15, gtaiii, 1000, 0
+23251, LODCBTM16, gtaiii, 1000, 0
+23252, LODCBTM17, gtaiii, 1000, 0
+23253, LODCBTM18, gtaiii, 1000, 0
+23254, LODCBTM19, gtaiii, 1000, 0
+23255, LODCBTM20, gtaiii, 1000, 0
+23256, LODCSE03, gtaiii, 1000, 0
+23257, LODCSE02, gtaiii, 1000, 0
+23258, LODCSE01, gtaiii, 1000, 0
+23259, LODCSE04, gtaiii, 1000, 0
+23260, LODCSE05, gtaiii, 1000, 0
+23261, LODCSE06, gtaiii, 1000, 0
+23262, LODCSE07, gtaiii, 1000, 0
+23263, LODCSE08, gtaiii, 1000, 0
+23264, LODCSE09, gtaiii, 1000, 0
+23265, LODCSE13, gtaiii, 1000, 0
+23266, LODCSE11, gtaiii, 1000, 0
+23267, LODCSE12, gtaiii, 1000, 0
+23268, LODCSE14, gtaiii, 1000, 0
+23269, LODCSE10, gtaiii, 1000, 0
+23270, LODcsw01, gtaiii, 1000, 0
+23271, LODcsw02, gtaiii, 1000, 0
+23272, LODcsw03, gtaiii, 1000, 0
+23273, LODcsw04, gtaiii, 1000, 0
+23274, LODcsw05, gtaiii, 1000, 0
+23275, LODcsw06, gtaiii, 1000, 0
+23276, LODcsw07, gtaiii, 1000, 0
+23277, LODcsw08, gtaiii, 1000, 0
+23278, LODcsw09, gtaiii, 1000, 0
+23279, LODcsw10, gtaiii, 1000, 0
+23280, LODcsw11, gtaiii, 1000, 0
+23281, LODcsw12, gtaiii, 1000, 0
+23282, LODcsw13, gtaiii, 1000, 0
+23283, LODcsw14, gtaiii, 1000, 0
+23284, LODcsw15, gtaiii, 1000, 0
+23285, LODcsw16, gtaiii, 1000, 0
+23286, LODcsw17, gtaiii, 1000, 0
+23287, LODcsw18, gtaiii, 1000, 0
+23288, LODcsw19, gtaiii, 1000, 0
+23289, LODcsw20, gtaiii, 1000, 0
+23290, LODcsw21, gtaiii, 1000, 0
+23291, LODcsw22, gtaiii, 1000, 0
+23292, LODcsw23, gtaiii, 1000, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
+

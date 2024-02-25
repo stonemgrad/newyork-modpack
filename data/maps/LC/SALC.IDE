@@ -1,0 +1,346 @@
+objs
+22815, rd_Corner1, gtaiii, 220, 0
+22816, rd_Corner2, gtaiii, 220, 0
+22817, rd_Road1A5, gtaiii, 220, 0
+22818, rd_Road1A10, gtaiii, 220, 0
+22819, rd_Road2A5, gtaiii, 220, 0
+22820, rd_Road2A10, gtaiii, 220, 0
+22821, rd_Road1A20, gtaiii, 220, 0
+22822, rd_Road2A20, gtaiii, 220, 0
+22823, rd_Road1A25, gtaiii, 220, 0
+22824, rd_Road2A25, gtaiii, 220, 0
+22825, rd_CrossRoads22, gtaiii, 220, 0
+22826, rd_CrossRoads11, gtaiii, 220, 0
+22827, rd_CrossRoads12, gtaiii, 220, 0
+22828, rd_TJunction11, gtaiii, 220, 0
+22829, rd_TJunction12, gtaiii, 220, 0
+22830, rd_TJunction22, gtaiii, 220, 0
+22831, rd_Road1B50, gtaiii, 220, 0
+22832, rd_Road2C50, gtaiii, 220, 0
+22833, rd_Road1C50, gtaiii, 220, 0
+22834, rd_Road2A50, gtaiii, 220, 0
+22835, rd_Road1A50, gtaiii, 220, 0
+22836, rd_Road2A30, gtaiii, 220, 0
+22837, rd_Road1A30, gtaiii, 220, 0
+22838, turnr5x50, gtaiii, 220, 0
+22839, rd_Road2B50s, gtaiii, 220, 0
+22840, rd_RoadInd1way50, owaywall, 261, 0
+22841, rd_RoadInd1way40, owaywall, 216, 0
+22842, rd_TJunction11way, gtaiii, 220, 0
+22843, rd_Road2B50, gtaiii, 220, 0
+22844, bridge_support, inddbridge, 213, 2097156
+22845, bridge_liftweight, vertbridge, 299, 0
+22846, bridge_liftsec, vertbridge, 299, 2097156
+22847, verticalift_bridge, vertbridge, 299, 2097156
+22848, verticalift_bridg2, vertbridge, 299, 2097156
+22849, subbridge07, vertbridge, 299, 0
+22850, subbridge01, vertbridge, 299, 0
+22851, subbridge19, vertbridge, 299, 0
+22852, subbridge20, vertbridge, 299, 0
+22853, subbridge_lift, vertbridge, 3000, 2097156
+22854, nbcom_roadkb01, inddbridge, 299, 0
+22855, nbbridgfk2, inddbridge, 299, 0
+22856, nbbridgcabls01, inddbridge, 299, 0
+22857, bvbridgspprt01, inddbridge, 299, 0
+22858, nbbridgerdb, inddbridge, 299, 2097156
+22859, LODridgspprt01, gtaiii, 3000, 0
+22860, nbbridgerda, inddbridge, 299, 2097156
+22861, damgbbridgerda, inddbridge, 299, 0
+22862, damgbridgerdb, inddbridge, 299, 0
+22863, tunl_4, roadtunnel, 299, 0
+22864, tunl_bend, roadtunnel, 299, 0
+22865, tunl_T4, roadtunnel, 299, 0
+22866, tunl_t2, roadtunnel, 299, 0
+22867, tunl_2, roadtunnel, 299, 0
+22868, tunl_2_bend, roadtunnel, 299, 0
+22869, tunl_4_Cus1, roadtunnel, 299, 0
+22870, tunl_4_Cus2, roadtunnel, 299, 0
+22871, tunl_4_Cus3, roadtunnel, 299, 0
+22872, tunl_4_Cus4, roadtunnel, 299, 0
+22873, sbwy_tunl_start, traintracks, 299, 0
+22874, sbwy_tunl_bit, traintracks, 299, 0
+22875, sbwy_tunl_bend, traintracks, 299, 0
+22876, sbwy_tunl_cstm6, traintracks, 299, 0
+22877, sbwy_tunl_cstm7, traintracks, 299, 0
+22878, sbwy_tunl_cstm8, traintracks, 299, 0
+22879, sbwy_tunl_cstm10, traintracks, 299, 0
+22880, sbwy_tunl_cstm9, traintracks, 299, 0
+22881, sbwy_tunl_cstm11, traintracks, 299, 0
+22882, sbwy_tunl_cstm1, traintracks, 299, 0
+22883, sbwy_tunl_cstm2, traintracks, 299, 0
+22884, sbwy_tunl_cstm4, traintracks, 299, 0
+22885, sbwy_tunl_cstm3, traintracks, 299, 0
+22886, sbwy_tunl_cstm5, traintracks, 299, 0
+22887, tunl_2_cus2, roadtunnel, 299, 0
+22888, tunl_2_cus1, roadtunnel, 299, 0
+22889, tunl_2_cus4, roadtunnel, 299, 0
+22890, tunl_2_cus3, roadtunnel, 299, 0
+22891, rd_Road1wayA10, gtaiii, 220, 0
+22892, LODticalift_bridge, gtaiii, 3000, 2097152
+22893, LODdge_liftsec, gtaiii, 3000, 2097156
+22894, LODticalift_bridg2, gtaiii, 3000, 2097152
+22895, LODdge_liftweight, gtaiii, 3000, 0
+#22896, LODridgcabls01, gtaiii, 3000, 2097152
+22897, LODom_roadkb01, gtaiii, 3000, 0
+#22898, LODridgerdb, gtaiii, 3000, 0
+#22899, LODridgerda, gtaiii, 3000, 0
+22900, LODgbridgerdb, gtaiii, 3000, 2097156
+22901, LODgbbridgerda, gtaiii, 3000, 2097156
+22902, LODridgfk2, gtaiii, 3000, 0
+22903, custm_rd_splay1, roadtunnel, 299, 0
+22904, custm_rd_splay1b, roadtunnel, 299, 0
+22905, subplatform_n2, traintracks, 299, 0
+22906, suby_tunl_start, traintracks, 299, 0
+22907, tunlentind_4, roadtunnel, 299, 0
+22908, bridge_path_parent, gtaiii, 600, 0
+22909, tunl_t2s, roadtunnel, 299, 0
+22910, tunl_t2n, roadtunnel, 299, 0
+22911, tunl_T4s, roadtunnel, 299, 0
+22912, tunl_T4n, roadtunnel, 299, 0
+22913, sbwy_tunl_start2, traintracks, 250, 0
+22914, LOD_pier3, comlod2, 2000, 0
+22915, com_pier3, comdocks, 200, 0
+22916, tunl_4_Cus9, roadtunnel, 299, 0
+22917, ind_customroad060, inddbridge, 200, 0
+22918, ind_customroad002, inddbridge, 200, 0
+22919, ind_customroad004, inddbridge, 200, 0
+22920, ind_customroad003, inddbridge, 200, 0
+22921, ind_brgrd1way, inddbridge, 200, 0
+22922, indy_tunl_start, traintracks, 299, 0
+22923, tunl_4_Cus15, roadtunnel, 299, 0
+22924, tunl_4_Cus14, roadtunnel, 299, 0
+22925, tunl_4_Cus11, roadtunnel, 299, 0
+22926, tunl_4_Cus10, roadtunnel, 299, 0
+22927, tunl_4_Cus12, roadtunnel, 299, 0
+22928, comtop_jety, comtop_jetty, 200, 0
+22929, usedcardelrflgs01, usedcar, 135, 0
+22930, gser_portacabin02, portacabin, 92, 0
+22931, fraightback01, TRUCKTRAIL, 140, 0
+22932, fraightback02, TRUCKTRAIL, 140, 0
+22933, fraightback03, TRUCKTRAIL, 140, 0
+22934, fraightback04, TRUCKTRAIL, 140, 0
+22935, gate2, 8ballfence, 64, 0
+22936, sidegate, 8ballfence, 58, 0
+22937, gate, 8ballfence, 64, 0
+22938, garage_oddjob, oddgar, 299, 0
+22939, oddjgaragdoor, oddgar, 60, 0
+22940, scaffold_pole, buildingsite, 100, 0
+22941, mscp_topfloor, carpark, 200, 0
+22942, mscp_barrier01, carpark, 100, 0
+22943, mscp_midlfloor, carpark, 200, 0
+22944, mscp_rampMDL, carpark, 100, 0
+22945, carpark55, carpark, 100, 0
+22946, carpark45, mscpbarrier, 100, 0
+22947, ped_tunnel, buildingsite, 100, 0
+22948, foundation, buildingsite, 100, 0
+22949, liftdoor_left, door, 100, 0
+22950, jump_box1, jumpbox, 200, 0
+22951, powerbox1, powerbox, 100, 0
+22952, apairporthangerA, airport, 290, 0
+22953, apairprtbits, airport, 290, 0
+22954, shedgaragedoor, subparts, 290, 0
+22955, smal_outsidelight, smalllit, 45, 0
+22956, basketballnet, bball, 100, 0
+22957, smal_outsidelight2, smalllit, 45, 0
+22958, singlelight, gtaiii, 100, 0
+22959, smal_outsidelight3, smalllit, 45, 0
+22960, singlelight2, singlelight, 100, 0
+22961, porthangerclosed, airport, 290, 0
+22962, hangardoor1, airport, 290, 0
+22963, hangardoor2, airport, 100, 0
+22964, hotel_outsidelight, smalllit, 50, 0
+22965, LODistancoast01, gtaiii, 3000, 0
+22966, plysav_lftdr_lft, base, 100, 0
+22967, plysav_lftdr_rght, base, 100, 0
+22968, plnt_pipepart01, pipesc, 300, 0
+22969, plnt_pipjoin4way04, pipesc, 290, 0
+22970, mscp_barriersup, mscpbarrier, 100, 0
+22971, mscp_barrier, mscpbarrier, 100, 0
+22972, sub_billboard1, billboard, 290, 0
+22973, sub_tripbboard, billboard, 150, 0
+22974, apairporthanger, airport, 290, 0
+22975, Carparkbooth, carparkbooth, 290, 0
+22976, LODage_oddjob, indust2, 750, 0
+22977, hangar_frate, subhangfrate, 100, 0
+22978, hangar_boxes, subhangbox, 100, 0
+22979, mak_billboardsrvc, billboard, 400, 0
+22980, usedcardelrsign01, USEDCAR, 361, 0
+22981, 3D8Ball, 3d8ball, 60, 0
+22982, Gsel_canopy3, canopy, 134, 0
+22983, Gsel_canopy4, canopy, 134, 0
+22984, Gsel_canopy5, canopy, 134, 0
+22985, Gsel_canopy9, canopy, 258, 0
+22986, Gsel_cansm1, canopy, 176, 0
+22987, big_rock, rock, 71, 0
+22988, mid_rock, rock, 57, 0
+22989, small_rock, rock, 49, 0
+22990, cooker1, dynjunk, 42, 0
+22991, slab_block, buildinsite, 47, 0
+22992, wood_block, buildinsite, 59, 0
+22993, firedoor, door, 44, 0
+22994, Garagedr_oddjob, door, 100, 0
+22995, warehousedoor, door, 100, 0
+22996, floatpackge1, package, 250, 0
+22997, donkeymag, porn, 100, 0
+22998, laundrtdoor1, laundrette, 100, 0
+22999, PoliceBallSigns, fuzzball, 100, 0
+23000, fuzballdoor, door, 100, 0
+23001, police_cell_wall, com_police, 100, 0
+23002, police_celhole, com_police, 100, 0
+23003, vheistlocdoor, door, 100, 0
+23004, double_garage_dr, door, 100, 0
+23005, crbaskt02, fishmarket, 42, 0
+23006, magnet, metals, 100, 0
+23007, packagelarge, drugs, 100, 0
+23008, files, bodycast, 100, 0
+23009, bullion, bullion, 100, 0
+23010, rubble01, junk, 100, 0
+23011, rubble02, junk, 100, 0
+23012, Airportdoor1, airport, 100, 0
+23013, Airportdoor2, airport, 100, 0
+23014, joey_door2, indjos_door, 150, 0
+23015, joey_door1, indjos_door, 150, 0
+23016, backdoor, door, 20, 0
+23017, playersdoor, indredlitblk1b, 50, 0
+23018, rockpatch1, rocky, 299, 0
+23019, rockpatch03, rocky, 299, 0
+23020, chnabankdoor, chinatowns, 100, 0
+23021, glassfx_composh, gtaiii, 70, 0
+23022, bodycast, bodycast, 90, 0
+23023, newsstand1, dynnewstnd, 42, 0
+23024, fshcrte01, fishmarket, 47, 0
+23025, fishstall04, fishmarket, 46, 0
+23026, coffee, coffee, 90, 0
+23027, noodlesbox, noodle, 90, 0
+23028, fishstall03, fishmarket, 46, 0
+23029, gardenbencha, benches, 45, 0
+23030, fixed_inside, cunt, 150, 0
+23031, broken_inside, cunt, 150, 0
+23032, broken_outside, cunt, 150, 0
+23033, fixed_outside, cunt, 150, 0
+23034, fish01, fishmarket, 40, 0
+23035, veg_tree1, trees, 99, 0
+23036, veg_treenew01, trees, 99, 0
+23037, veg_treenew05, trees, 99, 2097156
+23038, veg_treenew10, trees, 99, 0
+23039, veg_treenew09, trees, 99, 0
+23040, veg_bush14, trees, 99, 2097156
+23041, veg_treenew06, trees, 99, 0
+23042, veg_treenew08, trees, 200, 0
+23043, veg_treenew03, trees, 130, 0
+23044, veg_treenew17, trees, 99, 2097156
+23045, veg_treenew16, trees, 99, 2097156
+23046, veg_bush2, trees, 99, 2097156
+23047, vegclubtree01, pinetrees, 99, 0
+23048, condotree01, pinetrees, 100, 0
+23049, pinetree_wide, pinetrees, 100, 0
+23050, pinetree_narrow, pinetrees, 120, 0
+23051, vegclubtree03, pinetrees, 100, 0
+23052, vegclubtree02, pinetrees, 250, 2097156
+23053, vegpathtree, pinetrees, 250, 0
+23054, buildingalarm, boigalarm, 100, 0
+23055, miamphon, dynphnm, 42, 0
+23056, miamifirehyd, firem, 35, 0
+23057, Miamibin, miamibin, 15, 0
+23058, pickupmusic, icons4, 100, 0
+23059, kb_planterbush2, generic, 40, 0
+23060, lf_mediastage, lf_mediastage, 100, 0
+23061, lf_banner, lofbanner, 100, 0
+23062, lodxrefhirise1, wshxreflod, 700, 0
+23063, wshxrefhirise1, wshxrefhirise, 65, 0
+23064, jw_coffin, jwcoffin, 34, 0
+23065, train, train, 240, 0
+23066, train_dl, train, 240, 0
+23067, train_dr, train, 240, 0
+23068, strain, train, 240, 0
+23069, strain_dl, train, 240, 0
+23070, strain_dr, train, 240, 0
+23071, helirock, heli2, 290, 0
+23072, bvbridgspprt01fix, inddbridge, 299, 0
+23073, nbcom_roadkb01fix, inddbridge, 299, 0
+23074, island_arka, missliberty, 1, 300, 0
+23075, LOD_island_arka, missliberty, 1, 2000, 0
+
+23076, buildingtopex, dam, 130, 0
+23077, keithtomb, keithtomb, 144, 0
+23078, brownwat, gtaiii, 500, 0
+#23079, logcabinn, logcabincs_t, 220, 0
+#23080, logcabinnlogs, logcabincs_t, 55, 0
+23081, treetest, gtaiii, 299, 0
+23082, hatch, cskydark, 50, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

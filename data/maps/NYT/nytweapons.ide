@@ -1,0 +1,156 @@
+weap
+# Автоматические винтовки
+26000, nytakd, nytakd, rifle, 1, 50, 0
+26001, nytaklong, nytaklong, rifle, 1, 50, 0
+26002, nytarp15, nytarp15, rifle, 1, 50, 0
+26003, nytg36c, nytg36c, rifle, 1, 50, 0
+26004, nytgsar, nytgsar, rifle, 1, 50, 0
+26005, nythk416, nythk416, rifle, 1, 50, 0
+26006, nytm4a1, nytm4a1, rifle, 1, 50, 0
+26007, nytscarh, nytscarh, rifle, 1, 50, 0
+26053, nytakm1, nytakm1, rifle, 1, 50, 0
+26062, nytakm2, nytakm2, rifle, 1, 50, 0
+# Винтовки
+26008, nytbm98b, nytbm98b, rifle, 1, 50, 0
+26009, nytbxbolt, nytbxbolt, rifle, 1, 50, 0
+26010, nytrmini14, nytrmini14, rifle, 1, 50, 0
+26011, nytrpc, nytrpc, rifle, 1, 50, 0
+26012, nytsssg69, nytsssg69, rifle, 1, 50, 0
+26013, nytsvdm, nytsvdm, rifle, 1, 50, 0
+# Глушитель
+26014, nytbm9s, nytbm9s, silenced, 1, 30, 0
+26015, nytfnp45, nytfnp45, silenced, 1, 30, 0
+26016, nytglock34silen, nytglock34silen, silenced, 1, 30, 0
+26017, nyttaser, nyttaser, silenced, 1, 30, 0
+26018, nyttype52silen, nyttype52silen, silenced, 1, 30, 0
+# Новое
+26019, nytchester, nytchester, shotgun, 1, 50, 0
+# Глушитель
+26020, nytwppsilen, nytwppsilen, silenced, 1, 30, 0
+# Новое холодное
+26021, nytknifedamass, nytknifedamass, null, 1, 50, 0
+26022, nytknifedragon, nytknifedragon, null, 1, 50, 0
+26023, nyttalvar, nyttalvar, null, 1, 50, 0
+26024, nytknife14, nytknife14, null, 1, 50, 0
+# Дробовики
+26025, nytbm4, nytbm4, buddy, 1, 50, 0
+26026, nytdbshot, nytdbshot, buddy, 1, 50, 0
+26027, nytm5sss, nytm5sss, shotgun, 1, 50, 0
+26028, nytm500a, nytm500a, shotgun, 1, 50, 0
+26029, nytr870, nytr870, shotgun, 1, 50, 0
+26030, nytr870wp, nytr870wp, shotgun, 1, 50, 0
+# Обрезы
+26031, nytsff, nytsff, buddy, 1, 30, 0
+26032, nytsffb, nytsffb, buddy, 1, 30, 0
+# Пистолеты
+26033, nytm8000c, nytm8000c, silenced, 1, 30, 0
+26034, nytbm9, nytbm9, silenced, 1, 30, 0
+26035, nytbm92ci, nytbm92ci, silenced, 1, 30, 0
+26036, nytcolta, nytcolta, python, 1, 30, 0
+26037, nytdeag, nytdeag, python, 1, 30, 0
+26038, nytfnfs, nytfnfs, silenced, 1, 30, 0
+26039, nytglock17, nytglock17, silenced, 1, 30, 0
+26040, nytglock18, nytglock18, silenced, 1, 30, 0
+26041, nytglock25, nytglock25, silenced, 1, 30, 0
+26042, nytglock34, nytglock34, silenced, 1, 30, 0
+26043, nytglock26, nytglock26, silenced, 1, 30, 0
+26044, nythkusp, nythkusp, silenced, 1, 30, 0
+26045, nytp225, nytp225, silenced, 1, 30, 0
+26127, nytrhino50ds, nytrhino50ds, python, 1, 30, 0
+26046, nytrsp101, nytrsp101, python, 1, 30, 0
+26047, nytswm29, nytswm29, python, 1, 30, 0
+26048, nytswmcs9, nytswmcs9, silenced, 1, 30, 0
+26049, nytswsw1911, nytswsw1911, python, 1, 30, 0
+26050, nytsigp220, nytsigp220, python, 1, 30, 0
+26051, nytswm10, nytswm10, python, 1, 30, 0
+26052, nyttaur605, nyttaur605, python, 1, 30, 0
+26054, nyttype52, nyttype52, silenced, 1, 30, 0
+26055, nytwp38, nytwp38, silenced, 1, 30, 0
+26056, nytwp99, nytwp99, silenced, 1, 30, 0
+26057, nytwpp, nytwpp, silenced, 1, 30, 0
+26058, nytmakarova, nytmakarova, silenced, 1, 30, 0
+26059, nytrsac, nytrsac, python, 1, 30, 0
+# Пистолеты-пулемёты
+26060, nytar15, nytar15, uzi, 1, 30, 0
+26061, nytim11, nytim11, colt45, 1, 30, 0
+26063, nytkrissv, nytkrissv, uzi, 1, 30, 0
+26064, nytmp5, nytmp5, uzi, 1, 30, 0
+26065, nytmp5t, nytmp5t, uzi, 1, 30, 0
+26066, nytmp5k, nytmp5k, uzi, 1, 30, 0
+26067, nytmp9, nytmp9, uzi, 1, 30, 0
+26068, nytsvz61, nytsvz61, uzi, 1, 30, 0
+26069, nyttm1a1, nyttm1a1, uzi, 1, 30, 0
+26070, nytuzi, nytuzi, uzi, 1, 30, 0
+# Пулемёты
+26071, nythk21, nythk21, rifle, 1, 50, 0
+26072, nytm249, nytm249, rifle, 1, 50, 0
+26073, nytpkm, nytpkm, rifle, 1, 50, 0
+26074, nytrpk, nytrpk, rifle, 1, 50, 0
+# Холодное
+26075, nytsprayc, nytsprayc, spraycan, 1, 50, 0
+26076, nytchnsaw1, nytchnsaw1, chainsaw, 1, 50, 0
+26077, nytchnsaw2, nytchnsaw2, chainsaw, 1, 50, 0
+26078, nytbat1, nytbat1, null, 1, 50, 0
+26079, nytbat2, nytbat2, null, 1, 50, 0
+26080, nytcomknife, nytcomknife, null, 1, 50, 0
+26081, nytshaver, nytshaver, null, 1, 50, 0
+26082, nytwrench, nytwrench, null, 1, 50, 0
+26083, nytcopstick1, nytcopstick1, null, 1, 50, 0
+26084, nytcopstick2, nytcopstick2, null, 1, 50, 0
+26085, nytsharp, nytsharp, null, 1, 50, 0
+26086, nytbrass1, nytbrass1, null, 1, 50, 0
+26087, nytbrass2, nytbrass2, null, 1, 50, 0
+26088, nytkatana1, nytkatana1, null, 1, 50, 0
+26089, nytkatana2, nytkatana2, null, 1, 50, 0
+26090, nytkatana3, nytkatana3, null, 1, 50, 0
+26091, nytdagger, nytdagger, null, 1, 50, 0
+26092, nytgolfclub, nytgolfclub, null, 1, 50, 0
+26093, nytsledge1, nytsledge1, null, 1, 50, 0
+26094, nytsledge2, nytsledge2, null, 1, 50, 0
+26095, nytshovel, nytshovel, null, 1, 50, 0
+26096, nytmachete1, nytmachete1, null, 1, 50, 0
+26097, nytmachete2, nytmachete2, null, 1, 50, 0
+26098, nytmachete3, nytmachete3, null, 1, 50, 0
+26099, nythammer, nythammer, null, 1, 50, 0
+26100, nytmount, nytmount, null, 1, 50, 0
+26101, nytknife1, nytknife1, null, 1, 50, 0
+26102, nytbflyknife1, nytbflyknife1, null, 1, 50, 0
+26103, nytbflyknife2, nytbflyknife2, null, 1, 50, 0
+26104, nytknife2, nytknife2, null, 1, 50, 0
+26105, nytknife3, nytknife3, null, 1, 50, 0
+26106, nytknife4, nytknife4, null, 1, 50, 0
+26107, nytknife5, nytknife5, null, 1, 50, 0
+26108, nytknife6, nytknife6, null, 1, 50, 0
+26109, nytknife7, nytknife7, null, 1, 50, 0
+26110, nytknife8, nytknife8, null, 1, 50, 0
+26111, nytknife9, nytknife9, null, 1, 50, 0
+26112, nytknife10, nytknife10, null, 1, 50, 0
+26113, nytknife11, nytknife11, null, 1, 50, 0
+26114, nytknife12, nytknife12, null, 1, 50, 0
+26115, nytknife13, nytknife13, null, 1, 50, 0
+26116, nytscrewd, nytscrewd, null, 1, 50, 0
+26117, nytpepper, nytpepper, null, 1, 50, 0
+26118, nytadjustkey, nytadjustkey, null, 1, 50, 0
+26119, nytaxe1, nytaxe1, null, 1, 50, 0
+26120, nytaxe2, nytaxe2, null, 1, 50, 0
+26121, nytaxe3, nytaxe3, null, 1, 50, 0
+# Эксклюзив
+26122, nytm1911ex, nytm1911ex, python, 1, 30, 0
+26123, nytglockex, nytglockex, silenced, 1, 30, 0
+26124, nytbrasskex, nytbrasskex, null, 1, 50, 0
+26125, nytmakarzolex, nytmakarzolex, silenced, 1, 30, 0
+26126, nytmakarsilenex, nytmakarsilenex, silenced, 1, 30, 0
+# Камеры
+26128, nytcamera1, nytcamera1, rifle, 1, 50, 0
+26129, nytcamera2, nytcamera2, rifle, 1, 50, 0
+# Новое
+26130, nytcowboy, nytcowboy, python, 1, 30, 0
+26131, nytdraco, nytdraco, uzi, 1, 50, 0
+26132, nytmuerto1911g, nytmuerto1911g, python, 1, 30, 0
+26133, nytmuerto1911m, nytmuerto1911m, python, 1, 30, 0
+26134, nytwalthppg, nytwalthppg, python, 1, 30, 0
+26135, nytkatana4, nytkatana4, null, 1, 50, 0
+26136, nytkatana5, nytkatana5, null, 1, 50, 0
+26137, nytknife15, nytknife15, null, 1, 50, 0
+26138, nytknife16, nytknife16, null, 1, 50, 0
+end
