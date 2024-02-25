@@ -1,0 +1,4 @@
+cef/user_data/*
+cef/locales/*
+cef/cache/*
+*.log
